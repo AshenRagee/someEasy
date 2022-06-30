@@ -5,5 +5,5 @@ console.log(userOverWeightIndex);
 if (userOverWeightIndex >= 25) {
 	alert('You are overweight');
 } else {
-	alert("You aren't overweight");
+	alert("You aren't overweight, nice!");
 }
